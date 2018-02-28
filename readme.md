@@ -50,4 +50,4 @@ An array of strings to replace the strings specified inside of the `find` parame
 RegExp flags to use when doing replacements. (e.g `g` for global, `i` for case-insensitive)
 
 ## License
-MIT. See the [License file](LICENSE.md) for more info.
+MIT. See the [license.md file](license.md) for more info.
