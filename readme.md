@@ -4,7 +4,7 @@
 [![Travis build status](https://img.shields.io/travis/kodie/replace-once.svg?style=flat-square)](https://travis-ci.org/kodie/replace-once)
 [![npm package downloads](https://img.shields.io/npm/dt/replace-once.svg?style=flat-square)](https://www.npmjs.com/package/replace-once)
 [![code style](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square)](https://github.com/standard/standard)
-[![license](https://img.shields.io/github/license/kodie/replace-once.svg?style=flat-square)](LICENSE.md)
+[![license](https://img.shields.io/github/license/kodie/replace-once.svg?style=flat-square)](license.md)
 
 Make multiple replacements in a string without replacing ones that have already been replaced.
 
