@@ -1,0 +1,37 @@
+{
+  "name": "replace-once",
+  "version": "1.0.0",
+  "description": "Make multiple replacements in a string without replacing ones that have already been replaced.",
+  "keywords": [
+    "array",
+    "multiple",
+    "once",
+    "one",
+    "replace",
+    "replacement",
+    "string",
+    "unique"
+  ],
+  "author": {
+    "name": "Kodie Grantham",
+    "email": "kodie.grantham@gmail.com",
+    "url": "http://kodieg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodie/replace-once.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kodie/replace-once/issues"
+  },
+  "homepage": "https://github.com/kodie/replace-once",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "standard": "^11.0.0"
+  }
+}
