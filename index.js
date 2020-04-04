@@ -43,7 +43,7 @@ module.exports = (str, find, replace, flags) => {
     var replaced
 
     finds.some((found, index) => {
-      if (found) {
+      if (found !== undefined) {
         if (gFlag) {
           replaced = replace[index]
         } else if (!~done.indexOf(found)) {
